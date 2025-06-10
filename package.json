@@ -1,5 +1,6 @@
 {
   "name": "skel-tech-dev",
+  "author": "Luke Skelhorn",
   "private": true,
   "type": "module",
   "scripts": {
